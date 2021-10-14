@@ -6,7 +6,7 @@
 <test name="First Test" > 
 <groups>
 <run>
-<include name="abcd"/>
+<include name="abc"/>
 </run>
 </groups>
 <classes> 
