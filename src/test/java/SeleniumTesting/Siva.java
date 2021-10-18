@@ -2,7 +2,7 @@ package SeleniumTesting;
 
 public class Siva {
 	public static void main(String args[]) {
-		//admin changes
+		//admin changess
 		String s="ramesh";
 		
 	}
