@@ -4,7 +4,7 @@ public class Siva {
 	public static void main(String args[]) {
 		//ramesh 
 
-		String s="ramesh";
+		String s="rames";
 		
 	}
 
