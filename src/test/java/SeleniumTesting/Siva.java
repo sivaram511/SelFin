@@ -4,9 +4,10 @@ public class Siva {
 	public static void main(String args[]) {
 		//ramesh 
 
-		String s="ramki";
+		String s1="ramki";
 		//ssdf
 		//rames
+
 		
 	}
 
